@@ -7,7 +7,9 @@
 
 | 成就 | 触发动作 | 状态 |
 |---|---|---|
-| Pull Shark | merged PR ×16（铜级） | 进行中 |
-| YOLO | merge 无 review 的 PR | 进行中 |
-| Quickdraw | 开 issue 后 5 分钟内关闭 | 进行中 |
-| Pair Extraordinaire | co-authored commit 进入 merged PR | 进行中 |
+| Pull Shark 🦈 | merged PR ×16（铜级） | ✅ 已触发：17 个 merged PR（2026-10-07） |
+| YOLO 🤠 | merge 无 review 的 PR | ✅ 已触发：12 个无 review 直合（2026-10-07） |
+| Quickdraw 🔫 | 开 issue 后 5 分钟内关闭 | ✅ 已触发：issue #1 秒关（2026-10-07） |
+| Pair Extraordinaire 🤝 | co-authored commit 进入 merged PR | ✅ 已触发：PR #2 带 Co-authored-by（2026-10-07） |
+
+徽章发放由 GitHub 后台批量任务计算，通常 24–48 小时内到账。
